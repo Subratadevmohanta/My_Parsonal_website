@@ -96,6 +96,12 @@ section {
     padding-left: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 30px grey;
+}
 
+#n1 {
+    border-left: 7px solid blue;
+}
 
+#n2 {
+    border-left: 7px solid tomato;
 }

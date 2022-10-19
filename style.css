@@ -105,3 +105,6 @@ section {
 #n2 {
     border-left: 7px solid tomato;
 }
+footer p{
+    text-align: center;
+}

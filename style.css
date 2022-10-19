@@ -44,6 +44,13 @@ section {
     color: orange;
 }
 
+.My-Father {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position: right;
+}
+
 .f1 {
     width: 50%;
     padding-left: 5%;
@@ -56,6 +63,11 @@ section {
 
 .Mother {
     color: orange;
+}
+
+.My-Mother {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
 
 .f2 {
@@ -72,8 +84,18 @@ section {
     width: 50%;
 }
 
+.last-part {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
 .half-widthe {
-    box-shadow: 10px 10px 10px grey;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding-left: 10px;
-    
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px grey;
+
+
 }
